@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Marek 👋
 
-<!--
-**marekjungwirth/marekjungwirth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data specialist with a background in banking, now pivoting into the world of **Data Analytics** and **Bitcoin**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Working with my own Bitcoin node and mastering Python!
+- 🌱 I’m currently learning: **Python (Pandas)**, **SQL**, **Tableau**, and **On-chain Analysis**.
+- 🚀 My goal: To leverage data to find the signal in the noise of the crypto world.
+- 🌅 My Portfolio Website: 🔜 ⏳
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marekjungwirth/) & [E-mail](mailto:jungwirth.marek@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Technologies:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+</p>
+
+---
+
+### 📊 My GitHub Stats:
+
+<img src="https://media1.tenor.com/m/uKelfiTDlWAAAAAC/mai-anime.gif" alt="MaiSan" width="50%">
+
+Please, be patient... there is still nothing I can show you. #LearningInProgress
