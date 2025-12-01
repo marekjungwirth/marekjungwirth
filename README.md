@@ -5,7 +5,7 @@ I'm a data specialist with a background in banking, now pivoting into the world 
 - 🔭 I’m currently working on: Working with my own Bitcoin node and mastering Python!
 - 🌱 I’m currently learning: **Python (Pandas)**, **SQL**, **Tableau**, and **On-chain Analysis**.
 - 🚀 My goal: To leverage data to find the signal in the noise of the crypto world.
-- 🌅 My Portfolio Website: 🔜 ⏳
+- 🌅 My Portfolio Website: https://marekjungwirth.github.io/
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marekjungwirth/) & [E-mail](mailto:jungwirth.marek@gmail.com)
 
 ---
