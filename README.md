@@ -21,9 +21,3 @@ I'm a data specialist with a background in banking, now pivoting into the world 
 </p>
 
 ---
-
-### 📊 My GitHub Stats:
-
-<img src="https://media1.tenor.com/m/uKelfiTDlWAAAAAC/mai-anime.gif" alt="MaiSan" width="50%">
-
-Please, be patient... there is still nothing I can show you. #LearningInProgress
